@@ -1,8 +1,8 @@
-# kalkulator
-## prosty kalkulator, który ma za zadanie dodawać, odejmować, mnożyć i dzielić pewne wartości
+# PyrQuiz
+## Prosty Quiz oparty na około 8 pytaniach
 ## założenia
-    - nie można dzielić przez 0
-    - liczby całkowite
-    - okienkowe
+    - bez zliczarki punktów
+    - zła odpowiedź = koniec quizu = przegrana
+    - w jednym okienku znajduje się pytanie i 4 odpowiedzi (3 złe, 1 prawidłowa)
    
 
