@@ -1,4 +1,4 @@
-# PyrQuiz
+# WinAPI
 ## Prosty Quiz oparty na około 8 pytaniach
 ## założenia
     - bez zliczarki punktów
